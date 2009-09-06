@@ -10,9 +10,8 @@ import java.util.jar.JarEntry;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-import org.homeunix.thecave.moss.common.Version;
-
 import ca.digitalcave.moss.application.plugin.MossPlugin;
+import ca.digitalcave.moss.common.Version;
 
 /**
  * A factory which instantiates AbstractPlugin objects.  You can extend this to 

@@ -3,7 +3,8 @@
  */
 package ca.digitalcave.moss.application.plugin;
 
-import org.homeunix.thecave.moss.common.Version;
+import ca.digitalcave.moss.common.Version;
+
 
 public interface MossPlugin {
 	/**
