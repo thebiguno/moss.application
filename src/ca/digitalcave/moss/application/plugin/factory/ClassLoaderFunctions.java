@@ -1,7 +1,7 @@
 /*
  * Created on Oct 6, 2006 by wyatt
  */
-package org.homeunix.thecave.moss.application.plugin.factory;
+package ca.digitalcave.moss.application.plugin.factory;
 
 import java.awt.Image;
 import java.awt.Toolkit;

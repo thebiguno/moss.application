@@ -1,7 +1,7 @@
 /*
  * Created on Aug 11, 2007 by wyatt
  */
-package org.homeunix.thecave.moss.application.document;
+package ca.digitalcave.moss.application.document;
 
 import java.util.EventObject;
 

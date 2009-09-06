@@ -3,7 +3,7 @@
  * 
  * The interface which can be extended to create custom reports.
  */
-package org.homeunix.thecave.moss.application.plugin;
+package ca.digitalcave.moss.application.plugin;
 
 
 

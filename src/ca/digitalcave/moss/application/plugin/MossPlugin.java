@@ -1,7 +1,7 @@
 /*
  * Created on Sep 14, 2006 by wyatt
  */
-package org.homeunix.thecave.moss.application.plugin;
+package ca.digitalcave.moss.application.plugin;
 
 import org.homeunix.thecave.moss.common.Version;
 

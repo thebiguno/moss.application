@@ -1,7 +1,7 @@
 /*
  * Created on Aug 12, 2007 by wyatt
  */
-package org.homeunix.thecave.moss.application.plugin.factory;
+package ca.digitalcave.moss.application.plugin.factory;
 
 import java.io.File;
 import java.util.LinkedList;
@@ -10,8 +10,9 @@ import java.util.jar.JarEntry;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-import org.homeunix.thecave.moss.application.plugin.MossPlugin;
 import org.homeunix.thecave.moss.common.Version;
+
+import ca.digitalcave.moss.application.plugin.MossPlugin;
 
 /**
  * A factory which instantiates AbstractPlugin objects.  You can extend this to 

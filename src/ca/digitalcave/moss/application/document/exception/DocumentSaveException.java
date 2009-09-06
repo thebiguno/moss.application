@@ -1,7 +1,7 @@
 /*
  * Created on Aug 3, 2007 by wyatt
  */
-package org.homeunix.thecave.moss.application.document.exception;
+package ca.digitalcave.moss.application.document.exception;
 
 public class DocumentSaveException extends Exception {
 	public static final long serialVersionUID = 0;

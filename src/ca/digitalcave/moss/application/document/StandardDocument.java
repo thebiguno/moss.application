@@ -1,11 +1,11 @@
 /*
  * Created on Aug 11, 2007 by wyatt
  */
-package org.homeunix.thecave.moss.application.document;
+package ca.digitalcave.moss.application.document;
 
 import java.io.File;
 
-import org.homeunix.thecave.moss.application.document.exception.DocumentSaveException;
+import ca.digitalcave.moss.application.document.exception.DocumentSaveException;
 
 public interface StandardDocument {
 

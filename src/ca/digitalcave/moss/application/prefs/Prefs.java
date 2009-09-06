@@ -1,7 +1,7 @@
 /*
  * Created on Jul 30, 2007 by wyatt
  */
-package org.homeunix.thecave.moss.application.prefs;
+package ca.digitalcave.moss.application.prefs;
 
 import java.beans.XMLDecoder;
 import java.beans.XMLEncoder;
