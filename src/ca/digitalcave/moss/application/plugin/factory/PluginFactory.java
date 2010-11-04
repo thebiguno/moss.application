@@ -11,6 +11,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 import ca.digitalcave.moss.application.plugin.MossPlugin;
+import ca.digitalcave.moss.common.ClassLoaderFunctions;
 import ca.digitalcave.moss.common.Version;
 
 /**
